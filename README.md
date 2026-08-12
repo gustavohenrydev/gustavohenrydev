@@ -10,7 +10,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20SCANS&color=00F0FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=gh-username-here&label=PROFILE%20SCANS&color=00F0FF&style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-LEARNING%20MODE-00F0FF?style=for-the-badge&labelColor=0f0c29)
 ![Location](https://img.shields.io/badge/LOCATION-BRAZIL-8A2BE2?style=for-the-badge&labelColor=0f0c29)
 
@@ -69,7 +69,7 @@ user:
 <br/>
 
 <!-- ================= TOOLS ================= -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=60&section=header&text=%3E%20TOOLS_%26_ENVIRONMENT.sh&fontSize=26&fontColor=00F0FF&fontAlignY=70&fontAlign=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00F0FF&height=60&section=header&text=%3E%20TOOLS_AND_ENVIRONMENT.sh&fontSize=26&fontColor=00F0FF&fontAlignY=70&fontAlign=5" width="100%"/>
 
 <div align="center">
 
@@ -135,12 +135,12 @@ root@career-path:~$ echo "Status: LEARNING_NON_STOP"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gh-username-here&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-username-here&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&langs_count=8" width="49%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=8A2BE2&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gh-username-here&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=8A2BE2&fire=00F0FF&currStreakLabel=00F0FF" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=ffffff&area=true&area_color=00F0FF" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gh-username-here&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=8A2BE2&point=ffffff&area=true&area_color=00F0FF" width="98%"/>
 
 </div>
 
@@ -151,7 +151,7 @@ root@career-path:~$ echo "Status: LEARNING_NON_STOP"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gh-username-here&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -162,7 +162,7 @@ root@career-path:~$ echo "Status: LEARNING_NON_STOP"
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/gh-username-here/gh-username-here/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <sub>⚙️ Snake animation requires a one-time GitHub Actions setup — see the note at the bottom of this file.</sub>
 
@@ -181,7 +181,7 @@ root@career-path:~$ echo "Status: LEARNING_NON_STOP"
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/gh-username-here" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">

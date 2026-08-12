@@ -1,6 +1,3 @@
-Aqui está o seu **README.md** com estética Cyberpunk / JARVIS / IA. Substitua apenas o termo `YOUR_GITHUB_USERNAME` pelo seu nome de usuário do GitHub.
-
-```markdown
 <!-- ======================================================== -->
 <!--               CYBERPUNK / JARVIS HUD PROFILE             -->
 <!-- ======================================================== -->
@@ -32,6 +29,7 @@ Aqui está o seu **README.md** com estética Cyberpunk / JARVIS / IA. Substitua 
 └─$ cat profile.json
 {
   "operator": {
+    "handle": "gustavohenrydev",
     "age": 18,
     "academic_status": "High School Senior (3rd Year)",
     "target_role": "Junior Java / Cloud-Native Backend Engineer",
@@ -49,57 +47,11 @@ Aqui está o seu **README.md** com estética Cyberpunk / JARVIS / IA. Substitua 
     "Cloud-Native Systems Design"
   ]
 }
-
-```
-
----
-
-### 💻 System Modules & Learning Matrix
-
-```bash
-$ initialize --current-objectives
+💻 System Modules & Learning MatrixBash$ initialize --current-objectives
 
 [■■■■■■■■■■■■■■■■■■■■] 100% - Java Core & Object-Oriented Fundamentals
 [■■■■■■■■■■■■■□□□□□□]  65% - Spring Framework & Cloud-Native Ecosystem
 [■■■■■■■■■□□□□□□□□□□]  45% - Asynchronous Messaging & Distributed Data
-[■■■■■■■□□□□□□□□□□□□]  35% - Relational Databases & Persistence Layers
+[■■■■■■■■□□□□□□□□□□□]  35% - Relational Databases & Persistence Layers
 [■■■■■□□□□□□□□□□□□□□]  25% - Containerization (Docker) & Microservices
-
-```
-
----
-
-### 🛠️ Tech Stack & Neural Capabilities
-
-| Domain | Technologies & Tools |
-| --- | --- |
-| **Languages** |   |
-| **Backend & Cloud** |    |
-| **Databases** |   |
-| **DevOps & Tools** |     |
-
----
-
-### 📊 System Diagnostics & Metrics
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-### 🐍 Contribution Matrix (Grid Snake)
-
----
-
-### 🌐 Transmission Lines // Connect
-
----
+🛠️ Tech Stack & Neural CapabilitiesDomainTechnologies & ToolsLanguages Backend & Cloud  Databases DevOps & Tools   📊 System Diagnostics & Metrics🐍 Contribution Matrix (Grid Snake)🌐 Transmission Lines // Connect

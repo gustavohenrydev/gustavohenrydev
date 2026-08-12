@@ -18,7 +18,7 @@
 
 ```yaml
 user:
-  name: "[YOUR NAME HERE]"
+  name: "Gustavo Henry"
   age: 18
   role: "High School Student (Final Year) | Aspiring Backend Developer"
   current_focus: "Java Backend Cloud-Native — Messaging & Distributed Data"

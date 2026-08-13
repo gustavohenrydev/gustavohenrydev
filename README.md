@@ -88,12 +88,20 @@ root@career-path:~$ cat objectives.log
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustavohenrydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="49%"/> </div> <br/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gustavohenrydev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=8A2BE2&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrydev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" width="49%"/>
+
+</div>
+
+<br/>
+
 ## 🌐 Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B9THzSNG9Q2ScsFD4arBccQ%3D%3D" target="_blank">
+<a href="https://linkedin.com/in/gustavo-henry-97b446316" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:gustavohenry1515@gmail.com">

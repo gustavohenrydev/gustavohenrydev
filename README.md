@@ -90,7 +90,7 @@ root@career-path:~$ cat objectives.log
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustavohenrydev&theme=tokyonight&hide_border=true" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrydev&theme=tokyonight&hide_border=true&layout=compact" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gustavohenrydev&theme=tokyonight" />
 
 </div>
 
